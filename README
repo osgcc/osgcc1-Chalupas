@@ -1,0 +1,5 @@
+This is a game that I wrote during a 24 hour code blitz competition.  It got third.
+My theme was chapulas.  It is your basic side scroller. I used only Windows API calls,
+once again, instead of employing DirectX or OpenGL. It is, um, a little fun to play i
+guess. I never got to implementing AI, so you just jump through the levels avoiding
+minor nuisances like water, lava, and spikes.
